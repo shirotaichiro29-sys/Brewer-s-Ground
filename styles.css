@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #2b1a0f;
+  color: #f5efe6;
+}
+
+nav {
+  padding: 1rem;
+  background: #1a0f07;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
